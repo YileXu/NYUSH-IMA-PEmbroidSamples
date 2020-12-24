@@ -84,3 +84,7 @@ class MyVecField implements PEmbroiderGraphics.VectorField {
     return new PVector(1, 0.5*sin(x));
   }
 }
+
+void mousePressed() { 
+  saveFrame("mySketch.png"); // incase you wish to store the visualization in project folder
+}
