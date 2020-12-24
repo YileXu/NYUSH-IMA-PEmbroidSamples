@@ -7,3 +7,5 @@ This Example and Frame is to help IMA Students with SINGER Futura Embroidery Pro
 ![avatar](/PEmbroidSamples/PE_Example_Draw/mySketch.png)
 ![avatar](/PEmbroidSamples/PE_Example_IMG/mySketch.png)
 
+demo video clip
+https://drive.google.com/file/d/1PM9kAQCBC54Nhlq7klaMKJ2IphTxhdAY/view?usp=sharing
